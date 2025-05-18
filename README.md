@@ -1,6 +1,7 @@
+# CV/Résumé
 ## Education
 X
-## Achievements & Projects
+## Achievements, Projects, Experience
 X
 ## Skills
 - Languages: English (proficient)
