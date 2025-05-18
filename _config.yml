@@ -19,4 +19,4 @@ plugins:
 
 show_downloads: false
 is_project_page: false
-logo: image.png
+logo: "/assets/img/image.png"
