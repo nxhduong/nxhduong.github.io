@@ -3,7 +3,7 @@
     - Chemistry (BSc)
 
 ## Achievements, Projects, Experience
-- X
+- Under construction...
 
 ## Skills
 - Languages: 
