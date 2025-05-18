@@ -1,4 +1,4 @@
-# CV / Résumé
+#
 
 ## Education
 - University (2024 - present)
