@@ -1,9 +1,8 @@
 # CV / Résumé
 
 ## Education
-| University | 2024 - present |
-| --- | --- |
-| X | X |
+- University (2024 - present)
+    - Chemistry (BSc)
 
 ## Achievements, Projects, Experience
 - X
