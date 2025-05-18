@@ -1,5 +1,3 @@
-#
-
 ## Education
 - University (2024 - present)
     - Chemistry (BSc)
