@@ -1,1 +1,3 @@
-# Xuan
+# Education
+# Achievements & Projects
+# Skills
