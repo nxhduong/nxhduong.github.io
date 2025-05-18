@@ -2,7 +2,8 @@
 
 ## Education
 | University | 2024 - present |
-| - | - |
+| --- | --- |
+| X | X |
 
 ## Achievements, Projects, Experience
 - X

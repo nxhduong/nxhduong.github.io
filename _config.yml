@@ -1,12 +1,12 @@
 title: "Xuan Hoang Duong Nguyen"
 description: 
-  "
-  /swən/ Hoang Duong /ŋwiən/\n
-  Chemistry (BSc) student. This is my personal CV/portfolio.\n
-  <strong>Contact:</strong>\n
-  ✉️ hoangduong.nguyenx@gmail.com (preferred)\n
-  📞 +44 754 751 2269\n
-  "
+  '
+  /swən/ Hoang Duong /ŋwiən/<br>
+  Chemistry (BSc) student. This is my personal CV/portfolio.<br>
+  <strong>Contact:</strong><br>
+  ✉️ hoangduong.nguyenx@gmail.com (preferred)<br>
+  📞 +44 754 751 2269<br>
+  '
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
