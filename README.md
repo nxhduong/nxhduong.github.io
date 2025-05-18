@@ -10,6 +10,6 @@
     - English (proficient)
     - Japanese (beginner)
 - Computer: 
-    - Microsoft Office Specialist: Associate (Word, Excel, PowerPoint 2019),
+    - Microsoft Office Specialist: Associate (Word, Excel, PowerPoint 2019)
     - C#, Python, JavaScript
 - Problem-solving

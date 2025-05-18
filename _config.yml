@@ -1,7 +1,7 @@
 title: "Xuan Hoang Duong NGUYEN"
 description: 
   '
-  <h4>nxhduong.github.io</h4>
+  <a href="https://nxhduong.github.io/">nxhduong.github.io</h4>
   Student (BSc) | STEM enthusiast<br>
   This is my personal CV/Résumé/Portfolio.<br>
   <br>  
@@ -18,4 +18,4 @@ plugins:
 
 show_downloads: false
 is_project_page: false
-logo: "/assets/img/image.png"
+logo: "/assets/img/fluox.png"
