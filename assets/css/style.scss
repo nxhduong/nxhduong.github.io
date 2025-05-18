@@ -1,9 +1,9 @@
-@import "{{ site.theme }}";
-
-html {
+body {
     background-color: cornsilk !important;
 }
 
 h1 {
     border: 1px solid gray;
 }
+
+@import "{{ site.theme }}";
