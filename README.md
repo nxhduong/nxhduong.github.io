@@ -1,8 +1,9 @@
-# CV/Résumé
+# CV / Résumé
 ## Education
-X
+| University | 2024 - present |
+| - | - |
 ## Achievements, Projects, Experience
-X
+- X
 ## Skills
-- Languages: English (proficient)
-- Computer: Microsoft Word/Excel/Powerpoint, Python
+- Languages: English (proficient), Japanese (beginner)
+- Computer: Microsoft Word/Excel/PowerPoint, C#, Python, JavaScript
